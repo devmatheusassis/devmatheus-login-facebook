@@ -70,8 +70,8 @@ body{
     outline: none;
 }
 .submit input:hover{
-    background-color: #1163cf;
-    transition: 0.4s;
+    background-color: #156de0;
+    transition: 0.2s;
 }
 .submit button{
     margin: 15px 0;
@@ -102,7 +102,7 @@ body{
 }
 .conta button:hover{
     background-color: #3fa12b;
-    transition: 0.4s;
+    transition: 0.2s;
 }
 .area-login p{
     text-align: center;
