@@ -14,16 +14,18 @@ body{
     float: left;
 }
 .area-facebook img{
-    margin-top: 4%;
+    margin-top: 5.5%;
     width: 300px;
     margin-left: 23%;
 }
 .area-facebook h1{
+    position: relative;
     margin-left: 60px;
     font-family: Helvetica, sans-serif;
     font-size: 28px;
     font-weight: normal;
     margin-left: 27%;
+    top: -11px;
 }
 .area-login{
     width: 50%;
