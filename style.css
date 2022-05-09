@@ -118,3 +118,26 @@ body{
     font-weight: bold;
     color: black;
 }
+
+@media screen and (max-width: 480px) {
+    .area-facebook{
+        text-align: center;
+        position: relative;
+        display: inline;
+        float: none;
+        width: 100%;
+        margin: 0 auto;
+        left: -10%;
+    }
+    .area-login{
+        float: none;
+        margin-top: 15px;
+    }
+    .area-login form{
+        width: 176%;
+    }
+    .area-login p{
+        text-align: center;
+        width: 176%;
+    }
+}
